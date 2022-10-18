@@ -1,0 +1,56 @@
+from SK NAZRUL ISLAM to All Participants:
+https://azure.microsoft.com/en-us/resources/templates/
+from SK NAZRUL ISLAM to All Participants:
+https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/
+from Joyce Mazumder to All Participants:
+plz share the link
+from SK NAZRUL ISLAM to All Participants:
+https://docs.microsoft.com/en-us/learn/modules/create-deploy-azure-resource-manager-templates/
+from Sanjay Koul to All Participants:
+yes
+from Arul Ajith Singh Saviour to All Participants:
+Yes
+from N Jonykiran Babu to All Participants:
+Please show us the previous slide for a sec
+from Jaimin Desai to All Participants:
+Hi, Will we receive a certificate of completion for this course?  Thanks
+from Anand H Bhakre to All Participants:
+for AWS also 5 address are reserved 
+from Anand H Bhakre to All Participants:
+what is application gateway and cutomer gateway 
+from SK NAZRUL ISLAM to All Participants:
+https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/
+from Joyce Mazumder to All Participants:
+no audio
+from Joyce Mazumder to All Participants:
+Hi there is no audio
+from Mahendra Patil to All Participants:
+issue at your end
+from Joyce Mazumder to All Participants:
+along with this presentation do we also have to go thru microsfot docs , books or udemy for preparation ?
+from Joyce Mazumder to All Participants:
+ok
+from Super User 022 to All Participants:
+By completing this course and session , you will not get the certification.To get certification, you need to take the exam.
+from Anand H Bhakre to All Participants:
+what is customer gateway
+from Joyce Mazumder to All Participants:
+where i can get vrecordings of yesterdays session
+from Francisco Blanca to All Participants:
+pls, share that lab link
+from Anand H Bhakre to All Participants:
+2a
+from SK NAZRUL ISLAM to All Participants:
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Instructions/Labs
+from Francisco Blanca to All Participants:
+thanks
+from Lakshmi Rajeswar to All Participants:
+2a
+from Sanjay Koul to All Participants:
+for labs azure pass is required or sandbox activation will be there?
+from Sanjay Koul to All Participants:
+is there an additional cost of creating management group?
+from Sanjay Koul to All Participants:
+ok
+from Francisco Blanca to All Participants:
+no jet
